@@ -1,5 +1,7 @@
 # KaamSetu 🚀
 
+**COMPLETELY VIBE CODED**
+
 **Your Bridge to Smart Work** - An AI-powered work management platform that connects clients with top-tier "Lifters" using Gemini AI to intelligently split and assign tasks.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0.3-black?style=flat-square&logo=next.js)
